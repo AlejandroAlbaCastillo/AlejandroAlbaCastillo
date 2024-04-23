@@ -6,9 +6,9 @@
 - 🌱 I’m currently learning Python and CSS animations
 #### I have a B2 English level
 
-I program in:
-- Java
- - Kotlin
+- 📘 I have learnt:
+    - Java
+    - Kotlin
 
 <!--
 **AlejandroAlbaCastillo/AlejandroAlbaCastillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
