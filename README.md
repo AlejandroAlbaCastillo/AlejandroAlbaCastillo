@@ -4,11 +4,19 @@
 - 🔭 I’m currently working on renewing the Galactic Astrophysics Group's website from UGR being an intereen
 
 - 🌱 I’m currently learning Python and CSS animations
-#### I have a B2 English level
+
+- 🌍 Languages
+    -🇪🇦 Spanish native speaker
+    -🇬🇧 B2 English level
 
 - 📘 I have learnt:
     - Java
-    - Kotlin
+    - HTML
+    - CSS
+    - JavaScript
+    - Unity
+
+
 
 <!--
 **AlejandroAlbaCastillo/AlejandroAlbaCastillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
