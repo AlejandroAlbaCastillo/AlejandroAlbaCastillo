@@ -18,7 +18,7 @@
 
 - 📫 How to reach me:
     - 📨 E-mail: alejandroalba02@gmail.com 
-    - (Linkedin)[https://www.linkedin.com/in/alejandro-alba-castillo-69583b186?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+    - [Linkedin](https://www.linkedin.com/in/alejandro-alba-castillo-69583b186?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 <!--
 **AlejandroAlbaCastillo/AlejandroAlbaCastillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
