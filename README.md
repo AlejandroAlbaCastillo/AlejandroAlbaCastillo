@@ -1,6 +1,9 @@
 ### Hi there 👋
 #### I am a junior developer who just finished his studies in Developing Web and Multiplatform apps
 
+- 🔭 I’m currently working on renewing the Galactic Astrophysics Group's website from UGR being an intereen
+
+- 🌱 I’m currently learning Python and CSS animations
 #### I have a B2 English level
 
 I program in:
