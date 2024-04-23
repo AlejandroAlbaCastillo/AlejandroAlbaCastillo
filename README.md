@@ -8,7 +8,7 @@
 
 I program in:
 - Java
--- Kotlin
+ - Kotlin
 
 <!--
 **AlejandroAlbaCastillo/AlejandroAlbaCastillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
