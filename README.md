@@ -12,8 +12,8 @@ I have experience in Java, PHP and JavaScript, passionate about software develop
 - 🌱 I’m currently learning Python and CSS animations
 
 - 🌍 Languages
-    -🇪🇦 Spanish native speaker
-    -🇬🇧 B2 English level
+    - 🇪🇦 Spanish native speaker
+    - 🇬🇧 B2 English level
 
 - 📘 I have learnt:
     - Java
