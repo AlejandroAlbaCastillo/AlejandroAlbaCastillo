@@ -1,7 +1,13 @@
 ### Hi there 👋
 #### I am a junior developer who just finished his studies in Developing Web and Multiplatform apps
+I have experience in Java, PHP and JavaScript, passionate about software development and continuous learning.
 
 - 🔭 I’m currently working on renewing the Galactic Astrophysics Group's website from UGR being an intereen
+    - Code: HTML, CSS, JavaScript
+    - Framework: Astro
+    - Temporal website: https://www.ugr.es/~andonijimenez/es/
+    - Final website: https://www.ugr.es/~astrofisica/
+    - Using GitHub
 
 - 🌱 I’m currently learning Python and CSS animations
 
@@ -14,6 +20,7 @@
     - HTML
     - CSS
     - JavaScript
+    - PHP
     - Unity
 
 - 📫 How to reach me:
