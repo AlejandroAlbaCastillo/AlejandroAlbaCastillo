@@ -2,6 +2,9 @@
 #### I am a junior developer who just finished his studies in Developing Web and Multiplatform apps
 I have experience in Java, PHP and JavaScript, passionate about software development and continuous learning.
 
+-----
+|css|
+-----
 - 🔭 I have worked on renewing the Galactic Astrophysics Group's website from UGR being an intereen
     - Code: HTML, CSS, JavaScript
     - Framework: Astro
