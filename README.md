@@ -1,6 +1,7 @@
 ### Hi there 👋
 #### I am a junior developer who just finished his studies in Developing Web and Multiplatform apps
 I have experience in Java, PHP and JavaScript, passionate about software development and continuous learning.
+At this moment working on ISP Gestion
 
 -----
 |css|
@@ -11,7 +12,7 @@ I have experience in Java, PHP and JavaScript, passionate about software develop
     - Website: https://www.ugr.es/~astrofisica/
     - Using GitHub
 
-- 🌱 I’m currently learning Python and CSS animations
+# (- 🌱 I’m currently learning Python and CSS animations)
 
 - 🌍 Languages
     - 🇪🇦 Spanish native speaker
