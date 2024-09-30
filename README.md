@@ -12,7 +12,7 @@ At this moment working on ISP Gestion
     - Website: https://www.ugr.es/~astrofisica/
     - Using GitHub
 
-# (- 🌱 I’m currently learning Python and CSS animations)
+ <!-- - 🌱 I’m currently learning Python and CSS animations)-->
 
 - 🌍 Languages
     - 🇪🇦 Spanish native speaker
